@@ -2,6 +2,9 @@
   Higher-order functions allow us to construct components of a program using
   syntactically shorter expressions. A higher-order function accepts functions as
   arguments, and returns a function as a result.
+  
+  JavaScript now provides us with some built-in methods that operate on this principle.
+  We could write our own higher order functions, but let's use these as examples.
 */
 
 // Example:
