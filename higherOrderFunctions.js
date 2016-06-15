@@ -78,4 +78,6 @@ console.log(comicTitles.sort());
   Hopefully by this point, you've got the idea. To reiterate, higher-order
   functions are functions that accept other functions that we can use frequently
   to simplify our program and increase the readability of it.
+  
+  TODO: Write examples of making our own higer-order functions.
 */
